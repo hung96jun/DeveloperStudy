@@ -1,0 +1,370 @@
+{
+  "main": {
+    "id": "146f3481adf1d3e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e07828ad6ac7a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea20219b91cbddd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Const.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c905dc0d4cd3ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/01_Unity Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65aa7bd6a50d8020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Apply more paint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35e8ee756c42f54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Apply more paint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f1a144075c0e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Apply more paint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "186c7b731aea587d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/News Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "762314811d91c081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/OS(Operating System).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffe6d0322c7cff0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab0df3bcbeb2f77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a04a12ca6803b097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/SDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79fc35a9fcf07bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41600e54f56ba6dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/Procedure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10769e9c4cdeb924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/0. 절차지향 프로그래밍(Procedural Pogramming).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a19e5ef7349a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5947f2f37aa5332e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Const.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3456ffafbccb749c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c15d0d70fede435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1727972060740121",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7aafa995948a06b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "API",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b59214773454069",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bda8849b7b66f4ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c554a2a8fd57d447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a4f0bd8fc548f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ComputerScience/Process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae3e01092bfbc044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ComputerScience/Process.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83be96e3ff7a6335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2423e28197680b56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ComputerScience/Process.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "b3a19e5ef7349a84",
+  "lastOpenFiles": [
+    "C++/0. 객체 지향 프로그래밍(Object-Oriented Programming).md",
+    "C++/0. 절차지향 프로그래밍(Procedural Pogramming).md",
+    "Programming/MultiThreading/멀티 스레딩.md",
+    "Programming/MultiThreading/스레드.md",
+    "Programming/MultiThreading/프로그램과 프로세스.md",
+    "Programming/링크.md",
+    "Unity/01_Unity Interface.md",
+    "C++ 유용한 함수들.md",
+    "Imgae/Pasted image 20231105122715.png",
+    "MarkDown.md",
+    "ProrityQueue.md",
+    "TargetNumber.md",
+    "Walk in the park.md",
+    "C++/0. 자료형 크기 및 범위.md",
+    "무제 파일.md",
+    "ComputerScience/Procedure.md",
+    "ComputerScience/OS(Operating System).md",
+    "ComputerScience/API.md",
+    "ComputerScience/SDK.md",
+    "무제 폴더",
+    "ComputerScience/Process.md",
+    "Imgae/Pasted image 20231103145721.png",
+    "Imgae/Pasted image 20231103162247.png",
+    "Imgae/Pasted image 20231103161208.png",
+    "Imgae/Pasted image 20231103161206.png",
+    "C++ 유요한 함수들.md",
+    "Imgae/Pasted image 20231103155652.png",
+    "This is a nice tooltip looking thing..md",
+    "ComputerScience",
+    "Math/페르마의 소정리.md",
+    "DataStructure&Algorithm/DataStructure/Tree.md",
+    "DataStructure&Algorithm/DataStructure/Stack.md",
+    "DataStructure&Algorithm/DataStructure/Queue.md",
+    "Imgae/Pasted image 20231101085634.png",
+    "Unity",
+    "Imgae/Pasted image 20231027063852.png",
+    "무제 파일 2.canvas",
+    "무제 파일 3.canvas",
+    "무제 파일.canvas",
+    "Imgae/Pasted image 20231027065250.png",
+    "무제 파일 1.canvas",
+    "Imgae/Pasted image 20231027064457.png",
+    "Programming/MultiThreading",
+    "Programming",
+    "DataStructure&Algorithm/CodingTest/Programmers",
+    "DataStructure&Algorithm/CodingTest/HackerRank",
+    "Math",
+    "Imgae",
+    "DataStructure&Algorithm/CodingTest"
+  ]
+}
