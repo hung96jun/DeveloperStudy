@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "146f3481adf1d3e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad53d60a062b9de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e06ae5a9a1cde5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ 유용한 함수들.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52cdbe8e3076bfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/FlipNaturalNumbersIntoArray.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "243de55d94d83560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/ColatzGuess.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c973f9e63fb8adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/NBaseGame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b24f92950c1daa5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3002ec12ef5f9013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walk in the park.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef9491d42a453bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DirectX/기초/7. Direct3D의 다중표본화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3456ffafbccb749c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c15d0d70fede435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1727972060740121",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7aafa995948a06b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b59214773454069",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bda8849b7b66f4ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c554a2a8fd57d447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a4f0bd8fc548f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DirectX/기초/7. Direct3D의 다중표본화.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae3e01092bfbc044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DirectX/기초/7. Direct3D의 다중표본화.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83be96e3ff7a6335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2423e28197680b56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DirectX/기초/7. Direct3D의 다중표본화.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "0ef9491d42a453bd",
+  "lastOpenFiles": [
+    "DirectX/기초/6. 다중표본화의 이론.md",
+    "DirectX/기초/7. Direct3D의 다중표본화.md",
+    "DirectX/기초/3. SwapChain, 페이지 전환.md",
+    "DirectX/기초/2. 텍스처 형식.md",
+    "DirectX/기초/5. 지원과 서술자.md",
+    "DirectX/기초/4. Depth Buffer.md",
+    "DirectX/기초/1. COM.md",
+    "DirectX/기초/0. 개요.md",
+    "C++ 유용한 함수들.md",
+    "DirectX/기초",
+    "DirectX",
+    "무제 파일.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
+    "Walk in the park.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Vowel Dictionary.md",
+    "ProrityQueue.md",
+    "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
+    "C++/C++기초 플러스/0. 객체 지향 프로그래밍(Object-Oriented Programming).md",
+    "C++/전문가를 위한 C++/C++와 표준 라이브러리",
+    "C++/전문가를 위한 C++/무제 파일.md",
+    "C++/전문가를 위한 C++",
+    "DataStructure&Algorithm/Algorithm/DFS.md",
+    "C++/C++기초 플러스",
+    "DataStructure&Algorithm/CodingTest/Programmers/Sort By Integer In Descending Order.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Stamina.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Sum Between Two Integers.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/TargetNumber.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Templer Weapon.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/FindTheAverage.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/FlipNaturalNumbersIntoArray.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Harshad.md",
+    "Imgae/Pasted image 20231108094145.png",
+    "Imgae/Pasted image 20231108102759.png",
+    "Imgae/Pasted image 20231108102812.png",
+    "Pasted image 20231108102743.png",
+    "Pasted image 20231108102716.png",
+    "Pasted image 20231108102727.png",
+    "Pasted image 20231108102713.png",
+    "Pasted image 20231108102720.png",
+    "Imgae/Pasted image 20231107142351.png",
+    "Imgae/Pasted image 20231105122715.png",
+    "ComputerScience",
+    "Unity",
+    "무제 파일 2.canvas",
+    "무제 파일 3.canvas",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "Programming/MultiThreading",
+    "Programming",
+    "DataStructure&Algorithm/CodingTest/Programmers"
+  ]
+}
