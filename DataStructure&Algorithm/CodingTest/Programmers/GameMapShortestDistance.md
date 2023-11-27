@@ -76,4 +76,7 @@ int solution(vector<vector<int>> maps)
 }
 ```
 문제 1개 참조 오류, 4개 실패, 효율성 똥
-solution 함수에서 return -1 부분을 지우니 참조오류는 해결됨(어째서?)
+solution 함수에서 return -1 부분을 지우니 참조오류는 해결됨
+
+- 인터넷 참고
+	- 최단 거리를 구하는 문제는 BFS를 사용하면 쉽게 풀 수 있음
