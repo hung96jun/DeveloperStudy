@@ -133,14 +133,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/면접을 위한 CS 전공지식/네트워크/3. 네트워크 기기.md",
+                "file": "ComputerScience/면접을 위한 CS 전공지식/네트워크/IP 주소.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d19914ca5c01534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6081540cca718d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerScience/면접을 위한 CS 전공지식/네트워크/3. 네트워크 기기.md",
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerScience/면접을 위한 CS 전공지식/네트워크/3. 네트워크 기기.md",
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/면접을 위한 CS 전공지식/네트워크/3. 네트워크 기기.md"
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md"
               }
             }
           }
@@ -268,17 +292,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86e32fccb599f3c9",
+  "active": "1727972060740121",
   "lastOpenFiles": [
-    "ComputerScience/면접을 위한 CS 전공지식/네트워크/2. TCP IP 4계층 모델.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Network.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
+    "ComputerScience/면접을 위한 CS 전공지식/네트워크/IP 주소.md",
+    "Imgae/Pasted image 20231129033732.png",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/3. 네트워크 기기.md",
-    "Pasted image 20231128201752.png",
-    "Pasted image 20231128201726.png",
+    "Imgae/Pasted image 20231128201752.png",
+    "일과표.md",
+    "ComputerScience/면접을 위한 CS 전공지식/네트워크/2. TCP IP 4계층 모델.md",
+    "Imgae/Pasted image 20231128201726.png",
     "Pasted image 20231128201550.png",
     "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/2. 프로그래밍 패러다임.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Double Priority Queue.md",
     "DataStructure&Algorithm/Algorithm/multiset.md",
-    "일과표.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Integer Triangle.md",
     "DataStructure&Algorithm/Algorithm/Dynamic Programming.md",
     "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/1. 디자인패턴.md",
@@ -291,7 +319,6 @@
     "Imgae/Pasted image 20231126192113.png",
     "Imgae/Pasted image 20231126184822.png",
     "Imgae/Pasted image 20231126184613.png",
-    "Imgae/Pasted image 20231126184031.png",
     "Opsidian.md",
     "Compression.md",
     "Templator/Insert Callout.md",
@@ -310,9 +337,6 @@
     "DirectX/기초/2. 텍스처 형식.md",
     "DirectX/기초/5. 지원과 서술자.md",
     "DirectX/기초/4. Depth Buffer.md",
-    "DirectX/기초/1. COM.md",
-    "DirectX/기초/0. 개요.md",
-    "C++ 유용한 함수들.md",
     "DirectX/기초",
     "DirectX",
     "C++/전문가를 위한 C++/C++와 표준 라이브러리",
