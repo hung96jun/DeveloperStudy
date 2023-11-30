@@ -162,9 +162,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19fcb490dbe57e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46b12e44072560bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "More Spicy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -230,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
+                "file": "More Spicy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
+                "file": "More Spicy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md"
+                "file": "More Spicy.md"
               }
             }
           }
@@ -292,8 +316,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1727972060740121",
+  "active": "46b12e44072560bb",
   "lastOpenFiles": [
+    "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
+    "More Spicy.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Find Number Of Decimals In Base K.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/BestSet.md",
+    "C++ 유용한 함수들.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Network.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/IP 주소.md",
@@ -311,7 +340,6 @@
     "DataStructure&Algorithm/Algorithm/Dynamic Programming.md",
     "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/1. 디자인패턴.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Babbling.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
     "Imgae/Pasted image 20231126182629.png",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/1. 네트워크 기초.md",
     "Imgae/Pasted image 20231126225129.png",
@@ -333,10 +361,6 @@
     "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴",
     "ComputerScience/면접을 위한 CS 전공지식",
     "DirectX/기초/6. 다중표본화의 이론.md",
-    "DirectX/기초/3. SwapChain, 페이지 전환.md",
-    "DirectX/기초/2. 텍스처 형식.md",
-    "DirectX/기초/5. 지원과 서술자.md",
-    "DirectX/기초/4. Depth Buffer.md",
     "DirectX/기초",
     "DirectX",
     "C++/전문가를 위한 C++/C++와 표준 라이브러리",

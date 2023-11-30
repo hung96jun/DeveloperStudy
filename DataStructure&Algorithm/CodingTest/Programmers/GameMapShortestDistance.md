@@ -78,5 +78,81 @@ int solution(vector<vector<int>> maps)
 문제 1개 참조 오류, 4개 실패, 효율성 똥
 solution 함수에서 return -1 부분을 지우니 참조오류는 해결됨
 
-- 인터넷 참고
-	- 최단 거리를 구하는 문제는 BFS를 사용하면 쉽게 풀 수 있음
+```C++
+void bfs(const vector<vector<int>> maps, vector<vector<bool>>& visited, int x, int y, const int endX, const int endY, int count, int& result)
+{
+    if (count > result) return;
+
+    visited[y][x] = true;
+    count++;
+
+    if ((x == endX && y == endY) && count < result)
+    {
+        result = count;
+        return;
+    }
+
+    for (int i = 0; i < 4; i++)
+    {
+        int nextX, nextY;
+        nextX = x;
+        nextY = y;
+        switch (i)
+        {
+        case 0:     // down
+            if (nextY < endY)
+                nextY++;
+            else
+                continue;
+            break;
+        case 1:     // up
+            if (nextY > 0)
+                nextY--;
+            else
+                continue;
+            break;
+        case 2:     // right
+            if (nextX < endX)
+                nextX++;
+            else
+                continue;
+            break;
+        case 3:     // left
+            if (nextX > 0)
+                nextX--;
+            else
+                continue;
+            break;
+        }
+
+        if (maps[nextY][nextX] == 0)
+            continue;
+        if (visited[nextY][nextX] == true)
+            continue;
+        
+        bfs(maps, visited, nextX, nextY, endX, endY, count, result);
+        visited[nextY][nextX] = false;
+    }
+}
+
+int solution(vector<vector<int>> maps)
+{
+    int answer = INT_MAX;
+    vector<vector<bool>> visited;
+    int endX, endY;
+    endY = maps.size();
+    endX = maps[0].size();
+
+    visited.resize(endY);
+    for (vector<bool>& visit : visited)
+    {
+        visit.resize(endX);
+        fill_n(visit.begin(), visit.size(), false);
+    }
+
+    bfs(maps, visited,  0, 0, endX - 1, endY - 1, 0, answer);
+
+    return answer == INT_MAX ? -1 : answer;
+}
+```
+다시 풀어봤을 때 테스트 케이스는 전부 통과됐지만 효율성에서 전부 실패가 나왔다.
