@@ -181,14 +181,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "More Spicy.md",
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/More Spicy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a861f8864374b934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "More Spicy.md",
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "More Spicy.md",
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "More Spicy.md"
+                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md"
               }
             }
           }
@@ -316,10 +328,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46b12e44072560bb",
+  "active": "1727972060740121",
   "lastOpenFiles": [
+    "DataStructure&Algorithm/CodingTest/Programmers/More Spicy.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
     "DataStructure&Algorithm/Algorithm/Priority Queue.md",
-    "More Spicy.md",
     "Imgae/Pasted image 20231201181521.png",
     "Imgae/Pasted image 20231201181411.png",
     "Imgae/Pasted image 20231201181253.png",
