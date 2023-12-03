@@ -4,203 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "bad53d60a062b9de",
-        "type": "tabs",
+        "id": "f5edbcc436f75b4e",
+        "type": "split",
         "children": [
           {
-            "id": "75e06ae5a9a1cde5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++ 유용한 함수들.md",
-                "mode": "source",
-                "source": false
+            "id": "bad53d60a062b9de",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c08910aa8588e7f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "52cdbe8e3076bfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/FlipNaturalNumbersIntoArray.md",
-                "mode": "source",
-                "source": false
+            "id": "ff84aae9f81e837a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d2c13c507cafcc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DataStructure&Algorithm/DataStructure/Linked List.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4218580150fa35dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "List.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "243de55d94d83560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/ColatzGuess.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c973f9e63fb8adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/NBaseGame.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b24f92950c1daa5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3002ec12ef5f9013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walk in the park.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ef9491d42a453bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62f03c1b1d6e441f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Babbling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "056b556c2ce2378c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Integer Triangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2697ada0b78fda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Double Priority Queue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86e32fccb599f3c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerScience/면접을 위한 CS 전공지식/네트워크/IP 주소.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d19914ca5c01534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6081540cca718d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19fcb490dbe57e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46b12e44072560bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/More Spicy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a861f8864374b934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ],
+            "currentTab": 1
           }
         ],
-        "currentTab": 15
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -266,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
+                "file": "List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
+                "file": "List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md"
+                "file": "List.md"
               }
             }
           }
@@ -328,8 +185,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1727972060740121",
+  "active": "4218580150fa35dc",
   "lastOpenFiles": [
+    "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
+    "List.md",
+    "DataStructure&Algorithm/DataStructure/Linked List.md",
+    "DataStructure&Algorithm/DataStructure/Array.md",
+    "DataStructure&Algorithm/DataStructure/Graph.md",
+    "DataStructure&Algorithm/DataStructure/Array 1.md",
+    "C++ 유용한 함수들.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/FlipNaturalNumbersIntoArray.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/ColatzGuess.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/NBaseGame.md",
+    "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
+    "Walk in the park.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
+    "Stock Price.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Visit Length.md",
     "DataStructure&Algorithm/CodingTest/Programmers/More Spicy.md",
     "DataStructure&Algorithm/CodingTest/Programmers/ParkingFreeCalculation.md",
     "DataStructure&Algorithm/Algorithm/Priority Queue.md",
@@ -338,10 +210,8 @@
     "Imgae/Pasted image 20231201181253.png",
     "Imgae/Pasted image 20231201181129.png",
     "C++/Const.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Find Number Of Decimals In Base K.md",
     "DataStructure&Algorithm/CodingTest/Programmers/BestSet.md",
-    "C++ 유용한 함수들.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Network.md",
     "DataStructure&Algorithm/CodingTest/Programmers/Overtimer Index.md",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/IP 주소.md",
@@ -349,24 +219,11 @@
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/3. 네트워크 기기.md",
     "Imgae/Pasted image 20231128201752.png",
     "일과표.md",
-    "ComputerScience/면접을 위한 CS 전공지식/네트워크/2. TCP IP 4계층 모델.md",
     "Imgae/Pasted image 20231128201726.png",
     "Pasted image 20231128201550.png",
-    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/2. 프로그래밍 패러다임.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Double Priority Queue.md",
-    "DataStructure&Algorithm/Algorithm/multiset.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Integer Triangle.md",
-    "DataStructure&Algorithm/Algorithm/Dynamic Programming.md",
-    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/1. 디자인패턴.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Babbling.md",
     "Imgae/Pasted image 20231126182629.png",
-    "ComputerScience/면접을 위한 CS 전공지식/네트워크/1. 네트워크 기초.md",
     "Imgae/Pasted image 20231126225129.png",
-    "Opsidian.md",
-    "Compression.md",
-    "Templator/Insert Callout.md",
     "Templator",
-    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/2. 팩토리 패턴.md",
     "ComputerScience/면접을 위한 CS 전공지식/무제 폴더",
     "ComputerScience/면접을 위한 CS 전공지식/자료구조",
     "ComputerScience/면접을 위한 CS 전공지식/운영체제",
