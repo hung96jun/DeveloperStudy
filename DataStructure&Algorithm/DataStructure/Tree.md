@@ -38,9 +38,12 @@
 	- Order : 부모 노드가 가질 수 있는 최대 자식의 수(이진 트리의 Order = 2)
 - Tree의 종류
 	- [[Binary Tree]] : 자식 노드가 최대 2개까지만 허용하는 트리
-	- [[Ternary Tree]] : 자식 노드가 3개 이상 존재하는 트리
-	- [[Skewed Binary Tree]] : 모든 노드가 부모의 왼쪽 혹은 오른쪽으로 편항되어 있는 트리
+	- Ternary Tree : 자식 노드가 3개 이상 존재하는 트리
+	- Skewed Binary Tree : 모든 노드가 부모의 왼쪽 혹은 오른쪽으로 편항 되어 있는 트리
 	- [[Binary Search Tree]] : 부모 노드의 왼쪽 자식 노드에는 부모 노드보다 작은 값이, 오른쪽 자식 노드에는 부모 노드보다 큰 값이 들어가 있어야 하는 트리. 값을 찾는데 편리한 조건(전위 순회, 중위 순회, 후위 순회 - 루트 노드의 방문 순서가 기존, 레벨 순회)
-	- [[Complete Binary Tree]] : 왼쪽에서 오른쪽으로 순서대로 차곡차곡 채워져있는 이진 트리
-	- [[Full Binary Tree]] : 단말 노드를 제외하고 모든 노드의 차수가 2 혹은 0인 이진 트리
+	- [[Complete Binary Tree]] : 왼쪽에서 오른쪽으로 순서대로 차곡차곡 채워져 있는 이진 트리
+	- [[Full Binary Tree]] : 모든 노드가 0 또는 2개의 자식 노드를 갖는 트리
 	- [[Perfect Binary Tree]] : 모든 노드의 차수가 2이며, 모든 단말 노드의 레벨도 동일한 경우
+	- [[Balanced Binary Tree]] : 균형 이진 트리는 왼쪽과 오른쪽 트리의 높이 차이가 1만큼 나는 트리이다. 
+	- [[Red-Black Tree]] : 자가 균형 이진 탐색 트리(self-balancing binary seach tree)로, 대표적으로 연관 배열 등을 구현하는데에 사용되는 자료구조.
+	- [[AVL]] : 스스로 균형을 잡는 이진 탐색 트리

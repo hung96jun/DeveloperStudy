@@ -18,3 +18,82 @@
 >[!tip] 단점
 >- 한 번에 하나의 데이터만 처리 가능하다.
 
+```C++
+template<typename T>
+struct Node
+{
+	Node() {}
+	Node(T data) : data(data) {}
+	~Node() { front = nullptr; next = nullptr; }
+	
+	Node* front = nullptr;
+	Node* next = nullptr;
+
+	T data;
+};
+
+template<typename T>
+class Stack
+{
+public:
+	Stack()
+	{
+		begin = new Node<T>();
+		end = new Node<T>();
+
+		begin->next = end;
+		end->front = begin;
+	}
+	~Stack()
+	{
+		Clear();
+
+		begin->next = nullptr;
+		end->front = nullptr;
+
+		delete begin;
+		delete end;
+	}
+
+	void Push(T data)
+	{
+		Node<T>* newNode = new Node<T>(data);
+		Node<T>* nextNode = begin->next;
+
+		begin->next = newNode;
+		newNode->next = nextNode;
+
+		nextNode->front = newNode;
+		size++;
+	}
+
+	T Pop()
+	{
+		T result = begin->next->data;
+		Node<T>* nextNode = begin->next;
+		begin->next = nextNode->next;
+		nextNode->next->front = begin;
+		
+		delete nextNode;
+		size--;
+
+		return result;
+	}
+
+	void Clear()
+	{
+		while (size > 0)
+			Pop();
+
+		size = 0;
+	}
+
+	const int Size() const { return size; }
+
+private:
+	Node<T>* begin = nullptr;
+	Node<T>* end = nullptr;
+
+	int size = 0;
+};
+```
