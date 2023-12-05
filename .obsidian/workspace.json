@@ -4,71 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "f5edbcc436f75b4e",
-        "type": "split",
+        "id": "bad53d60a062b9de",
+        "type": "tabs",
         "children": [
           {
-            "id": "bad53d60a062b9de",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c08910aa8588e7f8",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Imgae/Pasted image 20231204074441.png"
-                  }
-                }
-              },
-              {
-                "id": "1cf8b5ab0f903a18",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DataStructure&Algorithm/DataStructure/Queue/Circular Queue.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "c08910aa8588e7f8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imgae/Pasted image 20231204074441.png"
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "ff84aae9f81e837a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9d2c13c507cafcc0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DataStructure&Algorithm/DataStructure/Linked List.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4218580150fa35dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DataStructure&Algorithm/DataStructure/Queue/Queue.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "1cf8b5ab0f903a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/DataStructure/Heap.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Queue/Queue.md",
+                "file": "DataStructure&Algorithm/DataStructure/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Queue/Queue.md",
+                "file": "DataStructure&Algorithm/DataStructure/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Queue/Queue.md"
+                "file": "DataStructure&Algorithm/DataStructure/Heap.md"
               }
             }
           }
@@ -196,9 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4218580150fa35dc",
+  "active": "1cf8b5ab0f903a18",
   "lastOpenFiles": [
+    "DataStructure&Algorithm/DataStructure/Heap 1.md",
     "DataStructure&Algorithm/DataStructure/Queue/Circular Queue.md",
+    "DataStructure&Algorithm/DataStructure/Heap.md",
+    "DataStructure&Algorithm/DataStructure/Queue/Prority Queue.md",
+    "Pasted image 20231205024209.png",
+    "DataStructure&Algorithm/DataStructure/Linked List.md",
     "DataStructure&Algorithm/DataStructure/Queue/Queue.md",
     "Circualr Queue.md",
     "DataStructure&Algorithm/DataStructure/Queue",
@@ -221,10 +188,8 @@
     "Imgae/Pasted image 20231204064144.png",
     "Imgae/Pasted image 20231204063230.png",
     "Imgae/Pasted image 20231204063221.png",
-    "Imgae/Pasted image 20231204062651.png",
     "DataStructure&Algorithm/DataStructure/Stack.md",
     "DataStructure&Algorithm/DataStructure/List.md",
-    "DataStructure&Algorithm/DataStructure/Linked List.md",
     "DataStructure&Algorithm/DataStructure/Array.md",
     "DataStructure&Algorithm/DataStructure/Graph.md",
     "DataStructure&Algorithm/DataStructure/Array 1.md",
@@ -232,9 +197,6 @@
     "DataStructure&Algorithm/CodingTest/Programmers/FlipNaturalNumbersIntoArray.md",
     "DataStructure&Algorithm/CodingTest/Programmers/ColatzGuess.md",
     "DataStructure&Algorithm/CodingTest/Programmers/NBaseGame.md",
-    "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
-    "Walk in the park.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/GameMapShortestDistance.md",
     "Templator",
     "ComputerScience/면접을 위한 CS 전공지식/무제 폴더",
     "ComputerScience/면접을 위한 CS 전공지식/자료구조",

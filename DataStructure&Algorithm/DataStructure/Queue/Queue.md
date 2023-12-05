@@ -21,6 +21,61 @@
 >- 가장 오래된 요소만 가져온다.
 >- 한 번에 하나의 데이터만 처리 가능하다.
 
+- 배열 방식
+```C++
+template<typename T>
+class Queue
+{
+public:
+	Queue() = delete;
+	Queue(const int capacity) : capacity(capacity)
+	{
+		datas = new T[capacity];
+
+		front = &datas[0];
+		near = &datas[0];
+	}
+
+	void Push(T data)
+	{
+		if (size >= capacity) return;
+
+		(*near) = data;
+		size++;
+		near = &datas[size];
+	}
+
+	T Pop()
+	{
+		if (index == size)
+			return -1;
+
+		T data = *front;
+		index++;
+		front = &datas[index];
+
+		return data;
+	}
+
+	T Top()
+	{
+		return *front;
+	}
+
+	const int Size() const { return size; }
+
+private:
+	T* front = nullptr;
+	T* near = nullptr;
+
+	const int capacity = 0;
+	int size = 0;
+	int index = 0;
+	T* datas;
+};
+```
+
+- 노드 방식
 ```C++
 template<typename T>
 struct Node

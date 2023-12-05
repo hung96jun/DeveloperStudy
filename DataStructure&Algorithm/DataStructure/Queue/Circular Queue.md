@@ -17,4 +17,79 @@
 	- enqueue
 	- dequeue
 	- peek
-- 
+
+```C++
+template<typename T>
+class CircularQueue
+{
+public:
+	CircularQueue() = delete;
+	CircularQueue(int capacity) : capacity(capacity)
+	{
+		datas = new T[capacity];
+		front = &datas[capacity - 1];
+		rear = &datas[capacity - 1];
+	}
+	~CircularQueue()
+	{
+		delete[] datas;
+		
+		front = nullptr;
+		rear = nullptr;
+		datas = nullptr;
+	}
+
+	const int Size() const { return size; }
+
+	void Enqueue(T data)
+	{
+		index++;
+		if (index == capacity)
+			index = 0;
+
+		datas[index] = data;
+		front = &datas[index];
+
+		size++;
+	}
+
+	T Dequeue()
+	{
+		if (size == 0) return -1;
+
+		T result = *front;
+		index--;
+		if (index < 0)
+			index = capacity - 1;
+
+		front = &datas[index];
+
+		size--;
+		return result;
+	}
+
+	T Peek()
+	{
+		return *front;
+	}
+
+	const bool IsFull()
+	{
+		return size == capacity;
+	}
+
+	const bool IsEmpty()
+	{
+		return size == 0;
+	}
+
+private:
+	T* front = nullptr;
+	T* rear = nullptr;
+
+	T* datas;
+	const int capacity = 0;
+	int size = 0;
+	int index = -1;
+};
+```
