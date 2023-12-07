@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Heap.md",
+                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Heap.md",
+                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Heap.md",
+                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Heap.md"
+                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md"
               }
             }
           }
@@ -160,45 +160,45 @@
   },
   "active": "1cf8b5ab0f903a18",
   "lastOpenFiles": [
+    "DataStructure&Algorithm/DataStructure/Tree.md",
+    "DataStructure&Algorithm/Algorithm/DFS.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Binary Tree.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Complete Binary Tree.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Red-Black Tree.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Balanced Binary Tree.md",
+    "DataStructure&Algorithm/DataStructure/Tree/AVL.md",
+    "Pasted image 20231207051247.png",
+    "ComputerScience/면접을 위한 CS 전공지식/운영체제/1. 운영체제와 컴퓨터.md",
+    "Pasted image 20231206181646.png",
+    "Pasted image 20231206181301.png",
+    "Pasted image 20231206174903.png",
+    "Pasted image 20231206174856.png",
+    "ComputerScience/면접을 위한 CS 전공지식/네트워크/5. HTTP.md",
+    "Pasted image 20231206174438.png",
+    "Pasted image 20231206172950.png",
+    "Pasted image 20231206163116.png",
+    "Pasted image 20231206162722.png",
+    "Pasted image 20231206162255.png",
+    "ComputerScience/면접을 위한 CS 전공지식/네트워크/4. IP 주소.md",
+    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/1. 디자인패턴.md",
+    "ComputerScience/면접을 위한 CS 전공지식/HTTP",
+    "ComputerScience/면접을 위한 CS 전공지식/네트워크/5. IP 주소를 이용한 위치 정보.md",
+    "DataStructure&Algorithm/DataStructure/Stack.md",
+    "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
+    "[Stack.md",
+    "DataStructure&Algorithm/DataStructure/Heap.md",
     "DataStructure&Algorithm/DataStructure/Heap 1.md",
     "DataStructure&Algorithm/DataStructure/Queue/Circular Queue.md",
-    "DataStructure&Algorithm/DataStructure/Heap.md",
     "DataStructure&Algorithm/DataStructure/Queue/Prority Queue.md",
-    "Pasted image 20231205024209.png",
     "DataStructure&Algorithm/DataStructure/Linked List.md",
     "DataStructure&Algorithm/DataStructure/Queue/Queue.md",
     "Circualr Queue.md",
     "DataStructure&Algorithm/DataStructure/Queue",
-    "Imgae/Pasted image 20231204074441.png",
-    "DataStructure&Algorithm/DataStructure/Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Binary Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Balanced Binary Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Complete Binary Tree.md",
-    "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Red-Black Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/AVL.md",
-    "Imgae/Pasted image 20231204074354.png",
-    "Imgae/Pasted image 20231204074305.png",
-    "Imgae/Pasted image 20231204074209.png",
-    "Imgae/Pasted image 20231204073748.png",
-    "Imgae/Pasted image 20231204061250.png",
     "DataStructure&Algorithm/DataStructure/Tree/Red-BlackTree.md",
     "Perfect Binary Tree.md",
-    "Imgae/Pasted image 20231204064144.png",
-    "Imgae/Pasted image 20231204063230.png",
-    "Imgae/Pasted image 20231204063221.png",
-    "DataStructure&Algorithm/DataStructure/Stack.md",
     "DataStructure&Algorithm/DataStructure/List.md",
-    "DataStructure&Algorithm/DataStructure/Array.md",
-    "DataStructure&Algorithm/DataStructure/Graph.md",
-    "DataStructure&Algorithm/DataStructure/Array 1.md",
-    "C++ 유용한 함수들.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/FlipNaturalNumbersIntoArray.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/ColatzGuess.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/NBaseGame.md",
     "Templator",
-    "ComputerScience/면접을 위한 CS 전공지식/무제 폴더",
     "ComputerScience/면접을 위한 CS 전공지식/자료구조",
     "ComputerScience/면접을 위한 CS 전공지식/운영체제",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크",
