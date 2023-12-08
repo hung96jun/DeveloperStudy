@@ -22,3 +22,217 @@
 - 자식 노드가 없는 노드(리프 노드) 삭제 : 해당 노드를 단순 삭제한다.
 - 자식 노드가 1개인 노드 삭제 : 해당 노드를 삭제하고 그 위치에 해당 노드의 자식 노드를 대입한다.
 - 자식 노드가 2개인 노드 삭제 : 삭제하고자 하는 노드의 값을 해당 노드의 왼쪽 서브트리에서 가장 큰 값으로 변경하거나, 오른쪽 서브트리에서 가장 작은 값으로 변경 후, 해당 노드(왼쪽 서브트리에서 가장 큰 값을 가지는 노드 또는 오른쪽 서브트리에서 가장 작은 값을 가지는 노드)를 삭제한다.
+
+```C++
+template<typename T>
+struct Node
+{
+	Node() {}
+	Node(T data, Node<T>* parent = nullptr) : data(data), parent(parent) {}
+	~Node()
+	{
+		parent = nullptr;
+		leftChild = nullptr;
+		rightChild = nullptr;
+
+		data = -1;
+	}
+
+	bool IsHasChils() { return leftChild != nullptr || rightChild != nullptr; }
+
+	Node<T>* parent = nullptr;
+	Node<T>* leftChild = nullptr;
+	Node<T>* rightChild = nullptr;
+	T data;
+};
+
+template<typename T>
+class Tree
+{
+public:
+	Tree() {}
+	~Tree() 
+	{
+		while (root != nullptr)
+		{
+			Delete(root->data);
+		}
+
+		root = nullptr;
+	}
+
+	void Insert(T data)
+	{
+		Node<T>* node = new Node<T>(data);
+		if (root == nullptr)
+			root = node;
+		else
+		{
+			Node<T>* parentNode = root;
+			
+
+			while (true)
+			{
+				// left
+				if (parentNode->data > data)
+				{
+					if (parentNode->leftChild != nullptr)
+						parentNode = parentNode->leftChild;
+					else
+					{
+						parentNode->leftChild = node;
+						node->parent = parentNode;
+						break;
+					}
+				}
+
+				// right
+				else if (parentNode->data < data)
+				{
+					if (parentNode->rightChild != nullptr)
+						parentNode = parentNode->rightChild;
+					else
+					{
+						parentNode->rightChild = node;
+						node->parent = parentNode;
+						break;
+					}
+				}
+			}
+		}
+	}
+
+	Node<T>* Find(T data)
+	{
+		Node<T>* node = root;
+
+		while (node->data != data)
+		{
+			if (node == nullptr)
+				return nullptr;
+			else if (node->data < data)
+				node = node->rightChild;
+			else if (node->data > data)
+				node = node->leftChild;
+		}
+
+		return node;
+	}
+
+	void Delete(T data)
+	{
+		Node<T>* node = Find(data);
+		Node<T>* changeNode = nullptr;
+
+		changeNode = RightLowNode(node);
+		if (changeNode != nullptr)
+		{
+			DeleteNode(node, changeNode);
+			return;
+		}
+
+		changeNode = LeftHighNode(node);
+		if (changeNode != nullptr)
+		{
+			DeleteNode(node, changeNode);
+			return;
+		}
+
+		delete root;
+		root = nullptr;
+	}
+
+private:
+	Node<T>* LeftHighNode(Node<T>* node)
+	{
+		Node<T>* result = node->leftChild;
+		if (result == nullptr)
+			return nullptr;
+
+		while (result->rightChild != nullptr)
+		{
+			result = result->rightChild;
+		}
+
+		return result;
+	}
+
+	Node<T>* RightLowNode(Node<T>* node)
+	{
+		Node<T>* result = node->rightChild;
+		if (result == nullptr) 
+			return nullptr;
+
+		while (result->leftChild != nullptr)
+		{
+			result = result->leftChild;
+		}
+
+		return result;
+	}
+
+	void DeleteNode(Node<T>*& deleteNode, Node<T>* changeNode)
+	{
+		Node<T>* parent = deleteNode->parent;
+
+		// changeNode의 자식 노드가 있을 경우
+		if (changeNode->IsHasChils() == true)
+		{
+			Node<T>* child = nullptr;
+
+			if (changeNode->parent->leftChild == changeNode)
+			{
+				child = changeNode->leftChild != nullptr ? changeNode->leftChild : changeNode->rightChild;
+				changeNode->parent->leftChild = child;
+				child->parent = changeNode->parent;
+			}
+			else if (changeNode->parent->rightChild == changeNode)
+			{
+				child = changeNode->rightChild != nullptr ? changeNode->rightChild : changeNode->leftChild;
+				changeNode->parent->rightChild = changeNode->rightChild != nullptr ? changeNode->rightChild : changeNode->leftChild;
+				child->parent = changeNode->parent;
+			}
+		}
+
+		// changeNode의 자식 노드가 없을 경우
+		else
+		{
+			if (changeNode->parent->leftChild == changeNode)
+				changeNode->parent->leftChild = nullptr;
+			else if (changeNode->parent->rightChild == changeNode)
+				changeNode->parent->rightChild = nullptr;
+		}
+
+		changeNode->parent = deleteNode->parent;
+		changeNode->leftChild = deleteNode->leftChild;
+		changeNode->rightChild = deleteNode->rightChild;
+
+		delete deleteNode;
+		deleteNode = nullptr;
+
+		// if not root node
+		if (parent != nullptr)
+		{
+			if (parent->leftChild == deleteNode)
+				parent->leftChild = changeNode;
+			else if (parent->rightChild == deleteNode)
+				parent->rightChild = changeNode;
+		}
+
+		// if root node
+		else
+		{
+			root = nullptr;
+			root = changeNode;
+
+			if (root->leftChild != nullptr)
+				root->leftChild->parent = changeNode;
+			if (root->rightChild != nullptr)
+				root->rightChild->parent = changeNode;
+		}
+	}
+
+private:
+	Node<T>* root = nullptr;
+};
+```
