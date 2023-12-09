@@ -21,11 +21,9 @@
             "id": "1cf8b5ab0f903a18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
-                "mode": "source",
-                "source": false
+                "file": "Imgae/Pasted image 20231209052645.png"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
+                "file": "Imgae/Pasted image 20231209052645.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
+                "file": "Imgae/Pasted image 20231209052645.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md"
+                "file": "Imgae/Pasted image 20231209052645.png"
               }
             }
           }
@@ -158,34 +156,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1cf8b5ab0f903a18",
+  "active": "1727972060740121",
   "lastOpenFiles": [
+    "DataStructure&Algorithm/DataStructure/Tree/Red-Black Tree.md",
+    "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
+    "Imgae/Pasted image 20231209052645.png",
+    "Imgae/Pasted image 20231209052641.png",
+    "Imgae/Pasted image 20231209052636.png",
+    "Imgae/Pasted image 20231209052632.png",
+    "Imgae/Pasted image 20231209052404.png",
+    "Imgae/Pasted image 20231209052402.png",
+    "Imgae/Pasted image 20231209052354.png",
+    "Imgae/Pasted image 20231209052350.png",
+    "DataStructure&Algorithm/DataStructure/Tree/AVL.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Balanced Binary Tree.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
+    "DataStructure&Algorithm/DataStructure/Tree/Binary Tree.md",
+    "Imgae/Pasted image 20231207051247.png",
     "DataStructure&Algorithm/DataStructure/Tree.md",
     "DataStructure&Algorithm/Algorithm/DFS.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Binary Tree.md",
     "DataStructure&Algorithm/DataStructure/Tree/Complete Binary Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Red-Black Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Balanced Binary Tree.md",
-    "DataStructure&Algorithm/DataStructure/Tree/AVL.md",
-    "Pasted image 20231207051247.png",
     "ComputerScience/면접을 위한 CS 전공지식/운영체제/1. 운영체제와 컴퓨터.md",
-    "Pasted image 20231206181646.png",
-    "Pasted image 20231206181301.png",
-    "Pasted image 20231206174903.png",
-    "Pasted image 20231206174856.png",
+    "Imgae/Pasted image 20231206181646.png",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/5. HTTP.md",
-    "Pasted image 20231206174438.png",
-    "Pasted image 20231206172950.png",
-    "Pasted image 20231206163116.png",
-    "Pasted image 20231206162722.png",
-    "Pasted image 20231206162255.png",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/4. IP 주소.md",
     "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/1. 디자인패턴.md",
     "ComputerScience/면접을 위한 CS 전공지식/HTTP",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/5. IP 주소를 이용한 위치 정보.md",
     "DataStructure&Algorithm/DataStructure/Stack.md",
-    "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
     "[Stack.md",
     "DataStructure&Algorithm/DataStructure/Heap.md",
     "DataStructure&Algorithm/DataStructure/Heap 1.md",
@@ -197,7 +195,6 @@
     "DataStructure&Algorithm/DataStructure/Queue",
     "DataStructure&Algorithm/DataStructure/Tree/Red-BlackTree.md",
     "Perfect Binary Tree.md",
-    "DataStructure&Algorithm/DataStructure/List.md",
     "Templator",
     "ComputerScience/면접을 위한 CS 전공지식/자료구조",
     "ComputerScience/면접을 위한 CS 전공지식/운영체제",
