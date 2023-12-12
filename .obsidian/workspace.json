@@ -21,9 +21,11 @@
             "id": "1cf8b5ab0f903a18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imgae/Pasted image 20231209052645.png"
+                "file": "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -57,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Index-Text",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imgae/Pasted image 20231209052645.png",
+                "file": "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imgae/Pasted image 20231209052645.png",
+                "file": "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imgae/Pasted image 20231209052645.png"
+                "file": "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md"
               }
             }
           }
@@ -156,28 +158,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1727972060740121",
+  "active": "1cf8b5ab0f903a18",
   "lastOpenFiles": [
+    "Imgae/Pasted image 20231204074441.png",
+    "C++/전문가를 위한 C++/C++와 표준 라이브러리/C++ 기초.md",
+    "C++/C++기초 플러스/1. 변수.md",
+    "C++/C++기초 플러스/2. 함수.md",
+    "C++/C++기초 플러스/3. 클래스.md",
     "DataStructure&Algorithm/DataStructure/Tree/Red-Black Tree.md",
+    "Pasted image 20231211162129.png",
+    "Pasted image 20231211144416.png",
+    "Pasted image 20231211144255.png",
+    "Pasted image 20231211135621.png",
+    "Pasted image 20231211135238.png",
+    "Pasted image 20231211135231.png",
+    "DataStructure&Algorithm/DataStructure/Tree/Balanced Binary Tree.md",
     "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
     "Imgae/Pasted image 20231209052645.png",
     "Imgae/Pasted image 20231209052641.png",
     "Imgae/Pasted image 20231209052636.png",
-    "Imgae/Pasted image 20231209052632.png",
-    "Imgae/Pasted image 20231209052404.png",
-    "Imgae/Pasted image 20231209052402.png",
-    "Imgae/Pasted image 20231209052354.png",
-    "Imgae/Pasted image 20231209052350.png",
     "DataStructure&Algorithm/DataStructure/Tree/AVL.md",
-    "DataStructure&Algorithm/DataStructure/Tree/Balanced Binary Tree.md",
     "DataStructure&Algorithm/DataStructure/Tree/Binary Search Tree.md",
     "DataStructure&Algorithm/DataStructure/Tree/Binary Tree.md",
-    "Imgae/Pasted image 20231207051247.png",
     "DataStructure&Algorithm/DataStructure/Tree.md",
     "DataStructure&Algorithm/Algorithm/DFS.md",
     "DataStructure&Algorithm/DataStructure/Tree/Complete Binary Tree.md",
     "ComputerScience/면접을 위한 CS 전공지식/운영체제/1. 운영체제와 컴퓨터.md",
-    "Imgae/Pasted image 20231206181646.png",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/5. HTTP.md",
     "ComputerScience/면접을 위한 CS 전공지식/네트워크/4. IP 주소.md",
     "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/1. 디자인패턴.md",
@@ -190,11 +196,7 @@
     "DataStructure&Algorithm/DataStructure/Queue/Circular Queue.md",
     "DataStructure&Algorithm/DataStructure/Queue/Prority Queue.md",
     "DataStructure&Algorithm/DataStructure/Linked List.md",
-    "DataStructure&Algorithm/DataStructure/Queue/Queue.md",
-    "Circualr Queue.md",
     "DataStructure&Algorithm/DataStructure/Queue",
-    "DataStructure&Algorithm/DataStructure/Tree/Red-BlackTree.md",
-    "Perfect Binary Tree.md",
     "Templator",
     "ComputerScience/면접을 위한 CS 전공지식/자료구조",
     "ComputerScience/면접을 위한 CS 전공지식/운영체제",
