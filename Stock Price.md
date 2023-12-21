@@ -26,7 +26,6 @@ vector<int> solution(vector<int> prices) {
         {
             stocks[curPrice] = i;
             
-
             if (stocks.count(curPrice + 1) != 0)
             {
                 int beforeCount = stocks[curPrice + 1];
