@@ -4,393 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bad53d60a062b9de",
+        "id": "4be51f153320edcf",
         "type": "tabs",
         "children": [
           {
-            "id": "c08910aa8588e7f8",
+            "id": "87b4b9f7a982171c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/전문가를 위한 C++/1. C++와 표준 라이브러리/C++ 기초.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cacb2c43ac5c10d2",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Imgae/Pasted image 20231204074441.png"
-              }
-            }
-          },
-          {
-            "id": "1cf8b5ab0f903a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/코테 기출.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8a3f68c7e259cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/DotProduct.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7657e3b7da89b418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Arrange Strings In Descending Order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8529f05a02e354e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Calculate Your Sortfall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e26ce84d6885816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/String Handling Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25484ab707108def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/Algorithm/Euclidean-Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03a5daa784367d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Greatest common divisor and least common multiple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41a13ad37b97e1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerScience/면접을 위한 CS 전공지식/운영체제/2. 메모리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a5666c579382bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "서드 파티.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bbe8583661ab775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walk in the park.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91153c94e85a8643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Ternary Reversal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e4b5770ab0f5c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Budget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e67561720198249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Creating strange strings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e68c041471cc5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00ed700a6c0eefb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Tree Muskelteers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "805ed017e588b9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Smallest Rectangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad4c5c521f427de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Fibonacci Sequence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db43d65de42bb277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Ceaser Clipher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ef272bd15ddd5ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Remove in pairs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9162d08b3bd04cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Closest same letter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27f603bdc2f526d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/K_th variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1cb368c7d3cfd37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Englis word ending.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "077cd4f5d5e6799e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Food fighting competition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60a5ed84c93748fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Secret map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91f8d038ae82239d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Take two and add them.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa179c53d78972e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/CodingTest/Programmers/Lift Boat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbef4c7745e8df1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerScience/컴퓨터 구조/컴퓨터 시스템.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c464507141d4885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure&Algorithm/Algorithm/Euclidean-Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca7821e810501ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walk in the park.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6d2a4ee26c025c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expected bracket.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee984d0ceaf2aa0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Long jump.md",
-                "mode": "source",
-                "source": false
+                "file": "Imgae/Pasted image 20240112094849.png"
               }
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -419,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유클",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -456,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Long jump.md",
+                "file": "Imgae/Pasted image 20240112094849.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -473,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Long jump.md",
+                "file": "Imgae/Pasted image 20240112094849.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -496,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Long jump.md"
+                "file": "Imgae/Pasted image 20240112094849.png"
               }
             }
           }
@@ -518,54 +158,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee984d0ceaf2aa0b",
+  "active": "1727972060740121",
   "lastOpenFiles": [
-    "Expected bracket.md",
-    "Long jump.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/N least common multiples.md",
-    "Walk in the park.md",
-    "Imgae/소프트웨어의 계층 구조와 하드웨어.png",
-    "Imgae/하드웨어 구성.png",
-    "DataStructure&Algorithm/Algorithm/Euclidean-Algorithm.md",
-    "ComputerScience/컴퓨터 구조/논리 회로.md",
-    "Imgae/Pasted image 20231227163831.png",
-    "ComputerScience/컴퓨터 구조/컴퓨터 시스템.md",
+    "Imgae/Pasted image 20240112192807.png",
+    "DataStructure&Algorithm/CodingTest/Codility/PermMissinElem.md",
+    "Imgae/Pasted image 20240112202010.png",
+    "DataStructure&Algorithm/CodingTest/Codility/FrogJmp.md",
+    "Imgae/Pasted image 20240112200013.png",
+    "Pasted image 20240112195802.png",
+    "Pasted image 20240112194222.png",
+    "DataStructure&Algorithm/CodingTest/Codility/OddOccurrencesInArray.md",
+    "Imgae/Pasted image 20240112193638.png",
+    "DataStructure&Algorithm/CodingTest/Codility/CycleRotation.md",
+    "DataStructure&Algorithm/CodingTest/Codility/BinaryGap.md",
+    "Imgae/Pasted image 20240112094849.png",
+    "DirectX/수업 자료들.md",
+    "DataStructure&Algorithm/CodingTest/Codility",
+    "C++/전문가를 위한 C++/1. C++와 표준 라이브러리/C++ 기초.md",
+    "Imgae/Pasted image 20240105145730.png",
+    "C++/전문가를 위한 C++/1. 기초/C++ 표준 라이브러리.md",
+    "Imgae/Pasted image 20240105165143.png",
+    "Pasted image 20240105151351.png",
+    "C++/전문가를 위한 C++/1. 기초",
+    "C++/전문가를 위한 C++/무제 파일.md",
+    "C++/전문가를 위한 C++/2. 스트링과 스트링뷰 다루기/1. 동적 스트링.md",
+    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/1. 디자인패턴.md",
+    "ComputerScience/면접을 위한 CS 전공지식/자료구조/예상 질문.md",
+    "ComputerScience/면접을 위한 CS 전공지식/운영체제/예상 질문.md",
+    "ComputerScience/면접을 위한 CS 전공지식/자료구조/3. 비선형 자료 구조.md",
+    "ComputerScience/면접을 위한 CS 전공지식/자료구조/2. 선형 자료 구조.md",
+    "ComputerScience/면접을 위한 CS 전공지식/자료구조/1. 복잡도.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/예상 질문.md",
+    "ComputerScience/면접을 위한 CS 전공지식/네트워크/예상 질문.md",
+    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/예상 질문.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/7. 조인의 원리.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/6. 조인의 종류.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/5. 인덱스.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/4. 데이터베이스의 종류.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/3. 트랜잭션과 무결성.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/2. ERD와 정규화 과정.md",
+    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스",
     "ComputerScience/컴퓨터 구조",
-    "DataStructure&Algorithm/CodingTest/Programmers/Lift Boat.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Take two and add them.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Secret map.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Food fighting competition.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Englis word ending.md",
-    "Imgae/Pasted image 20231204074441.png",
-    "DataStructure&Algorithm/CodingTest/Programmers/Closest same letter.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/K_th variable.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Remove in pairs.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Fibonacci Sequence.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Ceaser Clipher.md",
-    "DataStructure&Algorithm/자료구조 알고리즘 리스트.md",
-    "Imgae/Pasted image 20231223202406.png",
-    "DataStructure&Algorithm/CodingTest/Programmers/Smallest Rectangle.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Tree Muskelteers.md",
-    "Opsidian.md",
-    "Perfect Binary Tree.md",
-    "Stock Price.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Next big number.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Creating strange strings.md",
-    "DataStructure&Algorithm/CodingTest/Programmers/Budget.md",
-    "Imgae/Pasted image 20231221162123.png",
-    "Imgae/Pasted image 20231221180948.png",
-    "Imgae/Pasted image 20231221174904.png",
-    "Imgae/Pasted image 20231221171108.png",
-    "Pasted image 20231221171000.png",
     "C++/전문가를 위한 C++/2. 스트링과 스트링뷰 다루기",
     "C++/전문가를 위한 C++/C++와 표준 라이브러리/무제 폴더",
     "ComputerScience/면접을 위한 CS 전공지식/HTTP",
     "DataStructure&Algorithm/DataStructure/Queue",
     "Templator",
     "ComputerScience/면접을 위한 CS 전공지식/자료구조",
-    "ComputerScience/면접을 위한 CS 전공지식/운영체제",
-    "ComputerScience/면접을 위한 CS 전공지식/네트워크",
-    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴",
     "무제 파일 2.canvas",
     "무제 파일 3.canvas",
     "무제 파일.canvas",
