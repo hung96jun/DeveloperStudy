@@ -23,14 +23,38 @@
             "id": "cacb2c43ac5c10d2",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure&Algorithm/CodingTest/Codility/FrogRiverOne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bf659c41a8661d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일_InComplete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6661ebb8980d621a",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Imgae/Pasted image 20240112094849.png"
+                "file": "Imgae/Pasted image 20240115044237.png"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imgae/Pasted image 20240112094849.png",
+                "file": "Imgae/Pasted image 20240115044237.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imgae/Pasted image 20240112094849.png",
+                "file": "Imgae/Pasted image 20240115044237.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imgae/Pasted image 20240112094849.png"
+                "file": "Imgae/Pasted image 20240115044237.png"
               }
             }
           }
@@ -160,25 +184,34 @@
   },
   "active": "1727972060740121",
   "lastOpenFiles": [
+    "DataStructure&Algorithm/CodingTest/Programmers/Numeric strings and english words.md",
+    "DataStructure&Algorithm/CodingTest/Programmers/Carfet.md",
+    "DataStructure&Algorithm/CodingTest/Codility/무제 파일.md",
+    "DataStructure&Algorithm/Algorithm/Dynamic Programming.md",
+    "Imgae/Pasted image 20240115063042.png",
+    "Imgae/Pasted image 20240115063034.png",
+    "Imgae/Pasted image 20240115045958.png",
+    "Imgae/Pasted image 20240115045748.png",
+    "Imgae/Pasted image 20240115045446.png",
+    "Imgae/Pasted image 20240115044237.png",
+    "MissingInteger.md",
+    "DataStructure&Algorithm/Algorithm/무제 파일.md",
+    "무제 파일_InComplete.md",
+    "DataStructure&Algorithm/CodingTest/Codility/FrogRiverOne.md",
+    "DataStructure&Algorithm/CodingTest/Codility/TapeEqulibrium.md",
+    "C++/전문가를 위한 C++/1. C++와 표준 라이브러리/C++ 기초.md",
     "Imgae/Pasted image 20240112192807.png",
     "DataStructure&Algorithm/CodingTest/Codility/PermMissinElem.md",
     "Imgae/Pasted image 20240112202010.png",
     "DataStructure&Algorithm/CodingTest/Codility/FrogJmp.md",
     "Imgae/Pasted image 20240112200013.png",
     "Pasted image 20240112195802.png",
-    "Pasted image 20240112194222.png",
     "DataStructure&Algorithm/CodingTest/Codility/OddOccurrencesInArray.md",
-    "Imgae/Pasted image 20240112193638.png",
     "DataStructure&Algorithm/CodingTest/Codility/CycleRotation.md",
     "DataStructure&Algorithm/CodingTest/Codility/BinaryGap.md",
-    "Imgae/Pasted image 20240112094849.png",
     "DirectX/수업 자료들.md",
     "DataStructure&Algorithm/CodingTest/Codility",
-    "C++/전문가를 위한 C++/1. C++와 표준 라이브러리/C++ 기초.md",
-    "Imgae/Pasted image 20240105145730.png",
     "C++/전문가를 위한 C++/1. 기초/C++ 표준 라이브러리.md",
-    "Imgae/Pasted image 20240105165143.png",
-    "Pasted image 20240105151351.png",
     "C++/전문가를 위한 C++/1. 기초",
     "C++/전문가를 위한 C++/무제 파일.md",
     "C++/전문가를 위한 C++/2. 스트링과 스트링뷰 다루기/1. 동적 스트링.md",
@@ -189,14 +222,6 @@
     "ComputerScience/면접을 위한 CS 전공지식/자료구조/2. 선형 자료 구조.md",
     "ComputerScience/면접을 위한 CS 전공지식/자료구조/1. 복잡도.md",
     "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/예상 질문.md",
-    "ComputerScience/면접을 위한 CS 전공지식/네트워크/예상 질문.md",
-    "ComputerScience/면접을 위한 CS 전공지식/디자인 패턴/예상 질문.md",
-    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/7. 조인의 원리.md",
-    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/6. 조인의 종류.md",
-    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/5. 인덱스.md",
-    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/4. 데이터베이스의 종류.md",
-    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/3. 트랜잭션과 무결성.md",
-    "ComputerScience/면접을 위한 CS 전공지식/데이터베이스/2. ERD와 정규화 과정.md",
     "ComputerScience/면접을 위한 CS 전공지식/데이터베이스",
     "ComputerScience/컴퓨터 구조",
     "C++/전문가를 위한 C++/2. 스트링과 스트링뷰 다루기",
